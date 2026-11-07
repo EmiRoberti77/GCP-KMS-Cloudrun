@@ -1,0 +1,6 @@
+.git
+.venv
+__pycache__
+*.pyc
+secret.json
+secret.json.enc
