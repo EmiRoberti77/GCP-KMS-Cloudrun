@@ -1,0 +1,1 @@
+echo '{"customer":"Acme Ltd","contract":"CONFIDENTIAL-123"}' > secret.json
